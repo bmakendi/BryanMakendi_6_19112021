@@ -31,7 +31,10 @@ app.use((req, res, next) => {
 //Parsing json
 app.use(express.json());
 
-//Routes
+//User routes
 app.use("/api/auth", userRoutes);
+
+//Sauce routes
+
 
 module.exports = app;
