@@ -1,6 +1,7 @@
 # Hot Takes
 
 Projet 6 du parcours Développeur Web d'Openclassrooms
+Le backend dont je me suis occupé a été réalisé à l'aide de Node.js / Express.js.
 
 ## Enjeux :
 
